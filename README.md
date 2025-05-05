@@ -1,4 +1,4 @@
-# Hello, I'm Malik Lanlokun 👋
+# Hello, I'm Malik Kolawole Lanlokun 👋
 
 I’m a **Machine Learning Researcher** focused on decoding the brain and contributing to open-source communities. I also specialize in **mobile development** with **Flutter** and have experience with **blockchain** technologies.
 
