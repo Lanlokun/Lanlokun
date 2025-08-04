@@ -16,8 +16,11 @@ I’m a **Machine Learning Researcher** focused on decoding the brain and contri
 ### [TrueImage](https://github.com/Lanlokun/TrueImage)
 A mobile app built with Flutter that enables users to **encrypt** and **verify the authenticity** of images. This project demonstrates the use of cryptography in ensuring the integrity and provenance of digital images, making it highly relevant for use cases in digital forensics and image verification.
 
-### [Blockchain Voting System](https://github.com/Lanlokun/blockchain-voting-system)
-A blockchain-based voting system that ensures transparency and security in voting processes.
+### [Orunmilang](https://github.com/Lanlokun/orunmilang)  
+Orunmilang is a culturally inspired programming language that enables developers to write code in Yoruba. It bridges linguistic and technical gaps by providing a native-language programming experience, promoting inclusivity and digital empowerment for Yoruba-speaking communities.  
+
+The project includes a compiler that parses Yoruba syntax and supports core programming constructs, aiming to make software development accessible and culturally relevant.
+
 
 ## Skills & Technologies
 
